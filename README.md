@@ -1,3 +1,3 @@
-### Hi there 👋 I am a budding Full Stack Web Developer cum Python Data Analyst 
+### Hi there 👋 I am a MERN Stack Web Developer cum Python Data Analyst 
 
 
