@@ -8,8 +8,6 @@ Passionate about Data Science and Machine Learning .
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkushwahaa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkushwahaa&repo=CODSOFT)](https://github.com/vaibhavkushwaha/CODSOFT)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkushwahaa&repo=pwds)]((https://github.com/vaibhavkushwahaa/pwds))
 
 
 
