@@ -2,6 +2,9 @@
 Passionate about Data Science and Machine Learning .
 
 
+[![@vaibhavkushwahaa's Holopin board](https://holopin.io/api/user/board?user=vaibhavkushwahaa)](https://holopin.io/@vaibhavkushwahaa)
+
+
 ![image](https://github.com/vaibhavkushwahaa/vaibhavkushwahaa/assets/114812772/0c199d18-b82f-49af-9b9e-2279225bbb35)
 
 
